@@ -1,0 +1,17 @@
+[
+ {
+   "remote"     : "carbon",
+   "repository" : "rocknegi/kernel_msm8956",
+   "target_path": "kernel/xiaomi/msm8956",
+   "revision"   : "n2"
+ },
+ 
+ { 
+    "remote"      : "lineage",
+    "repository"  : "LineageOS/android_packages_resources_devicesettings",
+    "target_path" : "packages/resources/devicesettings",
+    "revision"    : "cm-14.1"
+  }
+  
+ 
+]
