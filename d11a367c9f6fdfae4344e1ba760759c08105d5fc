@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 42CD7CD7579A2177 1497896740 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_xiaomi_kenzo\nnonce 1497896742-4CC556308DCD6E6024864198230871F9A13552D3\n\n0000000000000000000000000000000000000000 d11a367c9f6fdfae4344e1ba760759c08105d5fc refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZSBckAAoJEELNfNdXmiF3Dd8IAL7KZXyKUaCOpKcLoAybxGXX\n/aBb+kqYeyUCXgccibvAtVJTMoQuPW2YaE8bDaRW7R2u8CNtCxv9Rh6dprfXX9iu\nXp/0f11sXe6RYvLXPmaz1FE+btSerftaz5Zbb8AgK3YtSCxi+D+dZ3qICyayOPhr\nmv3VwnLQ+trSr/aq/NJCN2SOtBr+tzABCqraVOOdwToUV3JZTMkndUh20AoYd/z1\njOd8DCH/Fd/zInmgwf907gPbbKDRaDFgwdRUqeJXCPsmmbcM4fauvlABig05/FGB\nqg0HOXQ1TB6UoZPBk4FcsQcphFXt7Ec/V61lbk/2/MmstDmQ7ACF8uKFTXdp2Jc\u003d\n\u003d8Bui\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
